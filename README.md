@@ -1,6 +1,5 @@
 # DMI_PRACTICA15_200687
 
-# MovieApp-200687
 ![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 ## Información General
 
