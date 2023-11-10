@@ -10,4 +10,4 @@ router.put("/updatePlayer/:playerID", updatePlayer)
 router.patch("/changePlayerPortrait", changePlayerPortrait)
 router.delete("/deletePlayer/:playerID", deletePlayer)
 
-export default router
+export default router 
